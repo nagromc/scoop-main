@@ -1,5 +1,5 @@
 {
-    "version": "8.0.37",
+    "version": "8.0.38",
     "description": "The world's most popular open-source database, supported by an active community. (Long Term Support)",
     "homepage": "https://dev.mysql.com/downloads/mysql/8.0.html",
     "license": "GPL-2.0-only",
@@ -16,9 +16,9 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.37-winx64.zip",
-            "hash": "md5:936fc116f2dd865dc26ef3d71f5730e8",
-            "extract_dir": "mysql-8.0.37-winx64"
+            "url": "https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.38-winx64.zip",
+            "hash": "md5:9b85c0f2193f95f46fcaa967328004ea",
+            "extract_dir": "mysql-8.0.38-winx64"
         }
     },
     "pre_install": [
