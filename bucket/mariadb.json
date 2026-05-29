@@ -1,5 +1,5 @@
 {
-    "version": "12.2.2",
+    "version": "12.3.2",
     "description": "Community developed fork of MySQL server.",
     "homepage": "https://mariadb.org",
     "license": "GPL-2.0-only",
@@ -13,9 +13,9 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://downloads.mariadb.com/MariaDB/mariadb-12.2.2/winx64-packages/mariadb-12.2.2-winx64.zip",
-            "hash": "d5808c9748261ee0a160203e0cb7f33f8482ac934b5e2db580775933623129cf",
-            "extract_dir": "mariadb-12.2.2-winx64"
+            "url": "https://downloads.mariadb.com/MariaDB/mariadb-12.3.2/winx64-packages/mariadb-12.3.2-winx64.zip",
+            "hash": "bd1e31f70e6938027e7db5ede8ecf2d9ded95680cf8522741a842f87aa66898f",
+            "extract_dir": "mariadb-12.3.2-winx64"
         }
     },
     "post_install": [
